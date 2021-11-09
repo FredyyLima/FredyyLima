@@ -1,5 +1,7 @@
 ### Hey! Meu nome é Frederico, mas podem me chamar de Fredy!
 
+<img src="https://cdn.discordapp.com/attachments/691766754636201994/907440679100239882/full-stack-developer.jpg">
+
 - 🌱 Estudando JS, HTML, CSS, React, NodeJs, SQL
 - 📫 Podem me achar com facilidade: <a href="https://www.instagram.com/fredyycarneiro/">Instagram</a>
 - 😄 Pronomes: Ele/Dele
