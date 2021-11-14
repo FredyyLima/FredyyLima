@@ -5,7 +5,7 @@
 - 🌱 Estudando JS, HTML, CSS, React, NodeJs, SQL
 - 📫 Podem me achar com facilidade: <a href="https://www.instagram.com/fredyycarneiro/">Instagram</a>
 - 😄 Pronomes: Ele/Dele
-- ⚡ Curiosida: Sou ciclista de longas distâncias.
+- ⚡ Curiosidade: Sou ciclista de longas distâncias.
 
 <div align="center">
   <a href="https://github.com/FredyyLima">
